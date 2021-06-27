@@ -2,7 +2,6 @@
   "name": "big-o-performance",
   "version": "0.0.1",
   "private": true,
-  "homepage": "http://agamya-samuel.github.io/my-app",
   "devDependencies": {
     "react-scripts": "0.2.3"
   },
